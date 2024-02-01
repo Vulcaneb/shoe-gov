@@ -1,0 +1,91 @@
+h1 {
+    color:black;
+    display: block;
+    background-color: beige;
+    font-family:monospace;
+    font-size:600%;
+    border: 10px solid Black;
+    border-radius: 100px;
+    padding: 20px;
+    margin: 10px;
+}
+h1 a{
+    text-decoration: none;
+    color:black;
+}
+h1 a:hover{
+    text-decoration: none;
+    color:black;
+}
+h1:hover{
+    color:black;
+    background-image: url(ShoeOriginalScale10.jpg);
+    background-size: 800px 125px;
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    padding: 10px;
+    margin:0;
+    padding:0;
+}
+
+li{
+    display: inline-block;
+}
+
+li a{
+    background-color: beige;
+    color: black;
+    font-size: 125%;
+    font-family: monospace;
+    display: block;
+    margin: 5px;
+    text-align: center;
+    padding:16px;
+    border: 6px solid Black;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+
+li a:hover{
+    background-color: grey;
+    color:black;
+
+}
+
+li a:active{
+    background-color: grey;
+    color:black;
+
+}
+
+
+body{
+    background-image: url(ShoeOriginalScale10.jpg);
+    background-attachment:fixed;
+    text-align: center;
+}
+p {
+    border: 7px solid Black;
+    padding: 20px;
+    font-size: 200%;
+    font-family:monospace;
+    background-color: beige;
+    border-radius: 50px;
+}
+
+h2 {
+    border: 7px solid Black;
+    padding: 20px;
+    font-size: 200%;
+    font-family:monospace;
+    background-color: beige;
+    border-radius: 50px;
+}
+
+img {
+    border:10px solid Black;
+}
